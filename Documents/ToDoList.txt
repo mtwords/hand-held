@@ -3,16 +3,21 @@ Aufwand: 75 h pro Person
 Technischer Bericht: 
 -A4 weiss, einseitig bedruckt
 -Ca 30 - 50 Seiten
+-Vorschlag: 2(-3) Seiten pro Framework, 15(-20) für die APP, 5 für den Rest
 
 Präsentation: 
 -soll 40-50 Minuten nicht übersteigen
 -1 Seitige Zusammenfassung an Studierende abgeben
 
+*********************
+Fehler in Zeitplanung beheben
+**********************
+
 
 Dokumentation allgemein: 1 Woche vor der Präsentation abgeben
 
 Bewertungskriterien:
--Einfachheit (Kriterium: Subjektiv)
+-Einfachheit (Kriterium: Subjektiv, anzahl benötigter Technologien (html, js, etc))
 -Entwicklungsumgebung (Kriterium: Aufzählung, Subjektives Empfinden)
 -Support (Kriterium: Supporthotline, Preis, Anleitungen im Netz, etc.?)
 -Tutorials (Kriterium: Suche nach Tutorials im Netz?)
@@ -28,6 +33,7 @@ Ideen:
 -Wie funktioniert das Framework?
 -Bereitstellen der Umgebung gemäss http://mobile.tutsplus.com/tutorials/phonegap/creating-an-android-hello-world-application-with-phonegap/ und http://docs.phonegap.com/en/2.2.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android
 -Debug Phonegap via debug.phonegap.com
+-Schon was gefunden für lupen-app mit phonetouch?
 
 
 Für Samstag:
