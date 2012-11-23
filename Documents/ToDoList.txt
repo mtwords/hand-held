@@ -12,18 +12,20 @@ Präsentation:
 Dokumentation allgemein: 1 Woche vor der Präsentation abgeben
 
 Bewertungskriterien:
--Einfachheit
--Entwicklungsumgebung
--Support
--Tutorials
--Building
--Testing
--Verbreitung
+-Einfachheit (Kriterium: Subjektiv)
+-Entwicklungsumgebung (Kriterium: Aufzählung, Subjektives Empfinden)
+-Support (Kriterium: ?)
+-Tutorials (Kriterium: Suche nach Tutorials im Netz?)
+-Building (Kriterium: Wie einfach / Aufwändig ist der Prozess?)
+-Testing (Kriterium: Wie kann getestet werden / Testumgebung vorhanden?)
+-Verbreitung (Kriterium: Netzsuche?)
 
 
 
 Ideen:
 -Zu jedem Framework die hardware requirements aufschreiben
+-Was für ein Framework ist es? Kurze Einleitung zu jedem Framework
+-
 
 Für Samstag:
 -Einleitungsteil
