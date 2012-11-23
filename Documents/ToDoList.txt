@@ -26,6 +26,9 @@ Ideen:
 -Zu jedem Framework die hardware requirements aufschreiben
 -Was für ein Framework ist es? Kurze Einleitung zu jedem Framework
 -Wie funktioniert das Framework?
+-Bereitstellen der Umgebung gemäss http://mobile.tutsplus.com/tutorials/phonegap/creating-an-android-hello-world-application-with-phonegap/ und http://docs.phonegap.com/en/2.2.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android
+-Debug Phonegap via debug.phonegap.com
+
 
 Für Samstag:
 -Einleitungsteil
