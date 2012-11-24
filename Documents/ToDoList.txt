@@ -16,31 +16,19 @@ Fehler in Zeitplanung beheben
 
 Dokumentation allgemein: 1 Woche vor der Präsentation abgeben
 
-Bewertungskriterien:
--Einfachheit (Kriterium: Subjektiv, anzahl benötigter Technologien (html, js, etc), intuitivität, Gebrauch/Benutzung der Werkzeuge)
--Entwicklungsumgebung (Kriterium: Aufzählung, Alternativen, Subjektives Empfinden, Hilfestellungen durch Frameworks)
--Support (Kriterium: Supporthotline, Onlinemöglichkeiten (z.B. Foren, Google Gruppen), Preis, Anleitungen im Netz, etc.?)
--Dokumentation (Verfügbarkeit, Struktur, Ausführlichkeit)
--Tutorials (Kriterium: Suche nach Tutorials im Netz? Qualität der ersten 5 Hits,)
--Building (Kriterium: Wie einfach / Aufwändig ist der Prozess? gibt es verschiedene Möglichkeiten (lokal, online), welches Build-Tool wird gebraucht?)
--Testing (Kriterium: Wie kann getestet werden / Testumgebung vorhanden?, Methodik, welche Ebenen können getestet werden)
--Verbreitung (Kriterium: Netzsuche? Wieviele Apps? Persönliche Erfahrung (An kongressen erwähnt, etc.))
-
-
 
 Ideen:
--Zu jedem Framework die hardware requirements aufschreiben
 -Was für ein Framework ist es? Kurze Einleitung zu jedem Framework
 -Wie funktioniert das Framework?
+
 -Bereitstellen der Umgebung gemäss http://mobile.tutsplus.com/tutorials/phonegap/creating-an-android-hello-world-application-with-phonegap/ und http://docs.phonegap.com/en/2.2.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android
+
 -Debug Phonegap via debug.phonegap.com
--Schon was gefunden für lupen-app mit phonetouch?
+-Schon was gefunden für lupen-app mit phoneGap?
 
 
 Für Samstag:
--Einleitungsteil
--Vorgehen: Evaluation der Frameworks
--Aufteilung der Evaluation
+
 -Evtl. Vorgehen: Schreiben der Lupen-App
 -Evtl. Aufteilung der Programmierung
 -Analyse PhoneGap
