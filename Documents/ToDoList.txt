@@ -25,6 +25,7 @@ Ideen:
 
 -Debug Phonegap via debug.phonegap.com
 -Schon was gefunden für lupen-app mit phoneGap?
+	-> http://www.netzgesta.de/loupe/: zu prüfen ist, wie gut die Bewegung der Lupe auf Touch-Devices funktioniert!
 
 
 Für Samstag:
