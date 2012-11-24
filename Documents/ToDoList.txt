@@ -9,6 +9,13 @@ Präsentation:
 -soll 40-50 Minuten nicht übersteigen
 -1 Seitige Zusammenfassung an Studierende abgeben
 
+interne Terminplanung:
+Evaluation der Frameworks abgeschlossen bis: 15.12.2012
+Fertigstellung der App bis: 29.12.2012
+Erstellen der Präsentation bis: 05.01.2013
+Erstellen des Handzettels bis: 05.01.2013
+Abgabe von Allem: 09.01.2013
+
 *********************
 Fehler in Zeitplanung beheben
 **********************
