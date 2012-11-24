@@ -17,7 +17,7 @@ Fehler in Zeitplanung beheben
 Dokumentation allgemein: 1 Woche vor der Präsentation abgeben
 
 Bewertungskriterien:
--Einfachheit (Kriterium: Subjektiv, anzahl benötigter Technologien (html, js, etc))
+-Einfachheit (Kriterium: Subjektiv, anzahl benötigter Technologien (html, js, etc), intuitivität, Gebrauch/Benutzung der Werkzeuge)
 -Entwicklungsumgebung (Kriterium: Aufzählung, Subjektives Empfinden)
 -Support (Kriterium: Supporthotline, Preis, Anleitungen im Netz, etc.?)
 -Tutorials (Kriterium: Suche nach Tutorials im Netz?)
@@ -43,4 +43,5 @@ Für Samstag:
 -Evtl. Vorgehen: Schreiben der Lupen-App
 -Evtl. Aufteilung der Programmierung
 -Analyse PhoneGap
+-Zeitplanung
 
