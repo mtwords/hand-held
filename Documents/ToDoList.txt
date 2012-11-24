@@ -18,12 +18,13 @@ Dokumentation allgemein: 1 Woche vor der Präsentation abgeben
 
 Bewertungskriterien:
 -Einfachheit (Kriterium: Subjektiv, anzahl benötigter Technologien (html, js, etc), intuitivität, Gebrauch/Benutzung der Werkzeuge)
--Entwicklungsumgebung (Kriterium: Aufzählung, Subjektives Empfinden)
--Support (Kriterium: Supporthotline, Preis, Anleitungen im Netz, etc.?)
--Tutorials (Kriterium: Suche nach Tutorials im Netz?)
--Building (Kriterium: Wie einfach / Aufwändig ist der Prozess?)
--Testing (Kriterium: Wie kann getestet werden / Testumgebung vorhanden?)
--Verbreitung (Kriterium: Netzsuche? Wieviele Apps?)
+-Entwicklungsumgebung (Kriterium: Aufzählung, Alternativen, Subjektives Empfinden, Hilfestellungen durch Frameworks)
+-Support (Kriterium: Supporthotline, Onlinemöglichkeiten (z.B. Foren, Google Gruppen), Preis, Anleitungen im Netz, etc.?)
+-Dokumentation (Verfügbarkeit, Struktur, Ausführlichkeit)
+-Tutorials (Kriterium: Suche nach Tutorials im Netz? Qualität der ersten 5 Hits,)
+-Building (Kriterium: Wie einfach / Aufwändig ist der Prozess? gibt es verschiedene Möglichkeiten (lokal, online), welches Build-Tool wird gebraucht?)
+-Testing (Kriterium: Wie kann getestet werden / Testumgebung vorhanden?, Methodik, welche Ebenen können getestet werden)
+-Verbreitung (Kriterium: Netzsuche? Wieviele Apps? Persönliche Erfahrung (An kongressen erwähnt, etc.))
 
 
 
