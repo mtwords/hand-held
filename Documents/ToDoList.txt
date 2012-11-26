@@ -40,5 +40,4 @@ Für Samstag:
 -Evtl. Vorgehen: Schreiben der Lupen-App
 -Evtl. Aufteilung der Programmierung
 -Analyse PhoneGap
--Zeitplanung
 
