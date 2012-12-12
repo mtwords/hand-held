@@ -41,3 +41,10 @@ Für Samstag:
 -Evtl. Aufteilung der Programmierung
 -Analyse PhoneGap
 
+
+***************************************************
+** Zwischengespräch
+***************************************************
+WICHTIG!!! Am Schluss der Doku Gegenüberstellung von SOLL- mit IST-Planung!!! Darauf legt Vils Wert!
+
+
