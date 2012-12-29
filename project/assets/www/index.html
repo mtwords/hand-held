@@ -24,11 +24,62 @@
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <link rel="stylesheet" type="text/css" href="css/loupe.css" />
-        <title>Hello World</title>
+        <title>Lupe</title>
         
         <script type="text/javascript" src="cordova-2.2.0.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
         <script type="text/javascript" src="loupe.js"></script>
+        
+        <script type="text/javascript" charset="utf-8">
+
+    var pictureSource;   // picture source
+    var destinationType; // sets the format of returned value 
+
+    // Wait for Cordova to connect with the device
+    //
+    document.addEventListener("deviceready",onDeviceReady,false);
+
+    // Cordova is ready to be used!
+    //
+    function onDeviceReady() {
+        pictureSource=navigator.camera.PictureSourceType;
+        destinationType=navigator.camera.DestinationType;
+    }
+
+    // Called when a photo is successfully retrieved
+    //
+    function onPhotoDataSuccess(imageData) {
+      // Uncomment to view the base64 encoded image data
+      // console.log(imageData);
+
+      // Get image handle
+      //
+      var smallImage = document.getElementById('caribbean');
+
+      // Unhide image elements
+      //
+      smallImage.style.display = 'block';
+
+      // Show the captured photo
+      // The inline CSS rules are used to resize the image
+      //
+      smallImage.src = "data:image/jpeg;base64," + imageData;
+    }
+    
+    // A button will call this function
+    //
+    function capturePhoto() {
+      // Take picture using device camera and retrieve image as base64-encoded string
+      navigator.camera.getPicture(onPhotoDataSuccess, onFail, { quality: 50,
+        destinationType: destinationType.DATA_URL });
+    }
+    // Called if something bad happens.
+    // 
+    function onFail(message) {
+      alert('Failed because: ' + message);
+    }
+
+    </script>
 
         <script type="text/javascript">
             app.initialize();
@@ -37,16 +88,18 @@
     <body>
 <!--
 	Beispiel der Karte von loupe.js nachgebildet. "id=caribbean" muss im Moment so stehen bleiben!
-	Wenn spÃ¤ter die Defaults angepasst wurden kÃ¶nnen wir dies noch anpassen.
+	Wenn später die Defaults angepasst wurden können wir dies noch anpassen.
 	Leider ist das ganze nicht im Fullscreen zu erleben, denke aber, dass sich dies mit dem Kamera-
-	Feature sowies ein wenig entschÃ¤rft. MÃ¼ssen wir noch anschauen.
+	Feature sowies ein wenig entschärft. Müssen wir noch anschauen.
 	
 	Beim Div wird mit style="background:url(img/big.jpg) das Bild als Hintergrund gesetzt (dies ist
-	dann herunterskaliert). Das Img hÃ¤lt dann das selbe Bild nochmals, so kann das Bild hochauflÃ¶send
-	darÃ¼ber gelegt werden.
+	dann herunterskaliert). Das Img hält dann das selbe Bild nochmals, so kann das Bild hochauflösend
+	darüber gelegt werden.
 -->
-		<div id="photoWrapper" style="background:url(img/big.jpg) no-repeat; border:1px solid gray; margin-right: 1em; margin-bottom: 0.25em;">
-            <img id="caribbean" onload="loupe.add(this, {visible:true, xview:170, yview:100});" src="img/big.jpg" style="cursor:wait;" />
+		<button onclick="capturePhoto();" style="height: 5%; width: 100%">Capture Photo</button> <br>
+		<div id="photoWrapper" style="background:url(img/disclaimer.jpg) no-repeat; border:1px solid gray; ">
+            <img id="caribbean" onload="loupe.add(this, {visible:true, xview:170, yview:100});" src="" style="cursor:wait;" width="100%" height="95%"/>
         </div>
+        
     </body>
 </html>
