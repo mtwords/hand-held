@@ -1,9 +1,33 @@
-html, body {
+/*html, body {
+	width: 100%;
+	height: 100%;
+}
+*/
+#page {
 	width: 100%;
 	height: 100%;
 }
 
-#photoWrapper {
-	width: 100%;
+#photoCapturer {
 	height: 100%;
+/*	height: 5%;*/
+	width: 100%;
+	font-size: large;
+}
+
+#photoWrapper {
+	background-image:url(../img/disclaimer.jpg);
+	background-position: center 50px;
+	background-repeat: no-repeat;
+	text-align: center;
+	vertical-align: middle;
+	border:1px solid gray; 
+/*	width: 100%;*/
+	height: 100%;
+}
+
+#caribbean {
+	cursor:wait;
+	width: 100%;
+/*	height: 95%;*/
 }

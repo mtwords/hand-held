@@ -3,7 +3,7 @@ function init() {
 	//
 	document.addEventListener("deviceready",onDeviceReady,false);
 	document.addEventListener("orientationchange", orientationChange, true);
-	document.addEventListener("onSizeChanged", orientationChange, true);
+//	document.addEventListener("onSizeChanged", orientationChange, true);
 }
 
 /*
@@ -20,6 +20,7 @@ function onDeviceReady() {
 function orientationChange(event) {
 	var orientation="portrait";
 	if(window.orientation == -90 || window.orientation == 90) orientation = "landscape";
+
 	alert('orientation: ' + orientation);
 	//document.getElementById("status").innerHTML+=orientation+"<br>";
 }

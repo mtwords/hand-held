@@ -25,9 +25,18 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <link rel="stylesheet" type="text/css" href="css/loupe.css" />
         <title>Lupe</title>
-        
+
+		<!-- jQuery Mobile stuff -->        
+		<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+		<script src="js/jquery-1.8.2.min.js"></script>
+		<script src="js/jquery.mobile-1.2.0.min.js"></script>
+
+		<!-- Phonegap stuff -->
         <script type="text/javascript" src="cordova-2.2.0.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="main.js"></script>
+        
+        <!-- own stuff -->
         <script type="text/javascript" src="loupe.js"></script>
         
         <script type="text/javascript" charset="utf-8">
@@ -38,6 +47,7 @@
     // Wait for Cordova to connect with the device
     //
     document.addEventListener("deviceready",onDeviceReady,false);
+	document.addEventListener("orientationchange", orientationChange);
 
     // Cordova is ready to be used!
     //
@@ -46,6 +56,21 @@
         destinationType=navigator.camera.DestinationType;
     }
 
+/*
+* Listeners
+*/
+
+function orientationChange() {
+/*	var orientation="portrait";
+	if(window.orientation == -90 || window.orientation == 90) orientation = "landscape";
+*/
+	alert('orientation changed');
+	//document.getElementById("status").innerHTML+=orientation+"<br>";
+}
+
+function onSizeChanged() {
+	alert('Size changed');
+}
     // Called when a photo is successfully retrieved
     //
     function onPhotoDataSuccess(imageData) {
@@ -83,23 +108,46 @@
 
         <script type="text/javascript">
             app.initialize();
+
+			$(window).bind("orientationchange", orientationChange);
+			$(window).resize(function() {
+				//loupe.remove('caribbean');
+				//loupe.add('caribbean', {visible:true, xview:170, yview:100});
+			});
+			
+			function orientationChange(e) {
+				//alert("orientation changed");
+				//loupe.remove('caribbean');
+				//loupe.add('caribbean', {visible:true, xview:170, yview:100});
+			}
         </script>
     </head>
     <body>
 <!--
 	Beispiel der Karte von loupe.js nachgebildet. "id=caribbean" muss im Moment so stehen bleiben!
-	Wenn später die Defaults angepasst wurden können wir dies noch anpassen.
+	Wenn spï¿½ter die Defaults angepasst wurden kï¿½nnen wir dies noch anpassen.
 	Leider ist das ganze nicht im Fullscreen zu erleben, denke aber, dass sich dies mit dem Kamera-
-	Feature sowies ein wenig entschärft. Müssen wir noch anschauen.
+	Feature sowies ein wenig entschï¿½rft. Mï¿½ssen wir noch anschauen.
 	
 	Beim Div wird mit style="background:url(img/big.jpg) das Bild als Hintergrund gesetzt (dies ist
-	dann herunterskaliert). Das Img hält dann das selbe Bild nochmals, so kann das Bild hochauflösend
-	darüber gelegt werden.
--->
-		<button onclick="capturePhoto();" style="height: 5%; width: 100%">Capture Photo</button> <br>
-		<div id="photoWrapper" style="background:url(img/disclaimer.jpg) no-repeat; border:1px solid gray; ">
-            <img id="caribbean" onload="loupe.add(this, {visible:true, xview:170, yview:100});" src="" style="cursor:wait;" width="100%" height="95%"/>
+	dann herunterskaliert). Das Img hï¿½lt dann das selbe Bild nochmals, so kann das Bild hochauflï¿½send
+	darï¿½ber gelegt werden.
+
+		<button id="photoCapturer" onclick="capturePhoto();">Capture Photo</button> <br>
+		<div id="photoWrapper">
+            <img id="caribbean" onload="loupe.add(this, {visible:true, xview:170, yview:100});" src="" />
         </div>
-        
+-->
+
+	<div id="page" data-role="page" data-theme="b" data-content-theme="a">
+		<div data-role="header" data-theme="b">
+			<h1><button id="photoCapturer" data-theme="b" onclick="capturePhoto();">Capture Photo</button></h1>
+		</div>
+
+		<div id="photoWrapper" data-role="content">
+            <img id="caribbean" onload="loupe.add(this, {visible:true, xview:170, yview:100});" src="" />
+		</div>
+	</div>
+
     </body>
 </html>
