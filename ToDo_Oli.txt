@@ -1,7 +1,0 @@
-ToDo:
-
-
-Doku:
-- Stundenraster
-- Lupen-App
-	- Testing
