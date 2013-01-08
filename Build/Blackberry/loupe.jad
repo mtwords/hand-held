@@ -1,0 +1,222 @@
+Manifest-Version: 1.0
+MIDlet-Jar-Size: 5418971
+RIM-MIDlet-Icon-2-1: resources/icon_hover.png,focused
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0.1
+RIM-COD-Size: 71232
+RIM-COD-URL-67: mtwordshandheld-67.cod
+RIM-COD-URL-66: mtwordshandheld-66.cod
+RIM-COD-URL-65: mtwordshandheld-65.cod
+RIM-COD-URL-64: mtwordshandheld-64.cod
+RIM-COD-URL-63: mtwordshandheld-63.cod
+RIM-COD-URL-62: mtwordshandheld-62.cod
+RIM-COD-URL-61: mtwordshandheld-61.cod
+RIM-COD-URL-60: mtwordshandheld-60.cod
+RIM-MIDlet-Flags-1: 0
+MIDlet-Name: mtwords/hand-held
+RIM-COD-Size-67: 67704
+RIM-COD-Size-66: 44992
+RIM-COD-Size-65: 58224
+RIM-COD-Size-64: 56496
+RIM-COD-URL-59: mtwordshandheld-59.cod
+RIM-COD-Size-63: 51692
+RIM-COD-URL-58: mtwordshandheld-58.cod
+RIM-COD-Size-62: 51692
+RIM-COD-URL-57: mtwordshandheld-57.cod
+RIM-COD-Size-61: 51692
+RIM-COD-URL-56: mtwordshandheld-56.cod
+RIM-COD-Size-60: 51692
+RIM-COD-URL-55: mtwordshandheld-55.cod
+RIM-COD-URL-54: mtwordshandheld-54.cod
+RIM-COD-URL-53: mtwordshandheld-53.cod
+RIM-COD-URL-52: mtwordshandheld-52.cod
+RIM-COD-URL-51: mtwordshandheld-51.cod
+RIM-COD-URL-50: mtwordshandheld-50.cod
+RIM-MIDlet-Icon-Count-2: 1
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-Size-59: 51692
+RIM-COD-Size-58: 51692
+RIM-COD-Size-57: 51692
+RIM-COD-Size-56: 51692
+RIM-COD-URL-9: mtwordshandheld-9.cod
+RIM-COD-Size-55: 51692
+RIM-COD-URL-8: mtwordshandheld-8.cod
+RIM-COD-Size-54: 58084
+RIM-COD-URL-49: mtwordshandheld-49.cod
+RIM-COD-URL-7: mtwordshandheld-7.cod
+RIM-COD-Size-53: 51692
+RIM-COD-URL-48: mtwordshandheld-48.cod
+RIM-COD-URL-6: mtwordshandheld-6.cod
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-52: 51692
+RIM-COD-URL-47: mtwordshandheld-47.cod
+RIM-COD-URL-5: mtwordshandheld-5.cod
+RIM-COD-Size-51: 51692
+RIM-COD-URL-46: mtwordshandheld-46.cod
+RIM-COD-URL-4: mtwordshandheld-4.cod
+RIM-COD-Size-50: 51692
+RIM-COD-URL-45: mtwordshandheld-45.cod
+RIM-COD-URL-3: mtwordshandheld-3.cod
+RIM-COD-URL-44: mtwordshandheld-44.cod
+RIM-COD-URL-2: mtwordshandheld-2.cod
+RIM-COD-URL-43: mtwordshandheld-43.cod
+RIM-COD-URL-1: mtwordshandheld-1.cod
+RIM-COD-URL-42: mtwordshandheld-42.cod
+RIM-COD-URL-41: mtwordshandheld-41.cod
+RIM-COD-Size-9: 66116
+RIM-COD-URL-40: mtwordshandheld-40.cod
+RIM-COD-Size-8: 64160
+RIM-COD-Size-7: 68688
+RIM-COD-Size-6: 54976
+RIM-COD-Size-5: 63508
+RIM-COD-Size-4: 67648
+RIM-COD-Size-3: 70680
+RIM-COD-Size-2: 73880
+RIM-COD-Size-1: 70820
+RIM-COD-Size-49: 51692
+RIM-COD-Size-48: 57320
+RIM-COD-Size-47: 51692
+RIM-COD-Size-46: 51692
+RIM-COD-Size-45: 51692
+RIM-COD-Size-44: 51692
+RIM-COD-URL-39: mtwordshandheld-39.cod
+RIM-COD-Size-43: 52244
+RIM-COD-URL-38: mtwordshandheld-38.cod
+RIM-COD-Size-42: 51664
+RIM-COD-URL-37: mtwordshandheld-37.cod
+RIM-COD-URL-36: mtwordshandheld-36.cod
+RIM-COD-Size-41: 54036
+RIM-COD-URL-35: mtwordshandheld-35.cod
+RIM-COD-Size-40: 51692
+RIM-COD-URL-34: mtwordshandheld-34.cod
+RIM-COD-URL-33: mtwordshandheld-33.cod
+RIM-COD-URL-32: mtwordshandheld-32.cod
+RIM-COD-URL-31: mtwordshandheld-31.cod
+RIM-COD-URL-30: mtwordshandheld-30.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_pdap,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_locationapi
+MIDlet-Vendor: oli.aeschbi@gmail.com
+RIM-COD-Size-39: 52772
+RIM-COD-Size-38: 51692
+RIM-COD-Size-37: 52776
+RIM-COD-Size-36: 51680
+RIM-COD-Size-35: 51664
+RIM-COD-URL-29: mtwordshandheld-29.cod
+RIM-COD-Size-34: 57104
+RIM-COD-URL-28: mtwordshandheld-28.cod
+RIM-COD-Size-33: 51692
+RIM-COD-URL-27: mtwordshandheld-27.cod
+RIM-COD-Size-32: 51692
+RIM-COD-URL-26: mtwordshandheld-26.cod
+RIM-COD-Size-31: 51692
+RIM-COD-URL-25: mtwordshandheld-25.cod
+RIM-COD-Size-30: 51684
+RIM-COD-URL-24: mtwordshandheld-24.cod
+RIM-COD-URL-23: mtwordshandheld-23.cod
+RIM-COD-URL-22: mtwordshandheld-22.cod
+RIM-COD-URL-21: mtwordshandheld-21.cod
+RIM-COD-URL-20: mtwordshandheld-20.cod
+RIM-COD-URL: mtwordshandheld.cod
+MIDlet-Description: 
+RIM-COD-Module-Name: mtwordshandheld
+RIM-COD-Size-29: 58404
+RIM-COD-Size-28: 51596
+RIM-MIDlet-Icon-1-1: resources/icon_hover.png,focused
+RIM-COD-Size-27: 54944
+RIM-COD-Size-26: 43888
+RIM-COD-Size-25: 51500
+RIM-COD-URL-19: mtwordshandheld-19.cod
+RIM-COD-Size-24: 59048
+RIM-COD-URL-18: mtwordshandheld-18.cod
+RIM-COD-Size-23: 58912
+RIM-COD-URL-17: mtwordshandheld-17.cod
+RIM-COD-Size-22: 51216
+RIM-COD-URL-16: mtwordshandheld-16.cod
+RIM-COD-Size-21: 51216
+RIM-COD-URL-15: mtwordshandheld-15.cod
+RIM-COD-Size-20: 51216
+RIM-COD-URL-14: mtwordshandheld-14.cod
+RIM-COD-URL-13: mtwordshandheld-13.cod
+RIM-COD-URL-12: mtwordshandheld-12.cod
+RIM-COD-URL-11: mtwordshandheld-11.cod
+RIM-COD-URL-10: mtwordshandheld-10.cod
+RIM-COD-SHA1-67: 14 1b 15 56 ce 93 3d e3 f7 b2 94 bb d3 3f 50 8b ef e2 9c 85
+RIM-COD-SHA1-66: 31 70 2b 12 d4 6b f7 0d f2 0f 5b 37 64 9d 50 31 f3 71 44 9a
+RIM-COD-SHA1-65: db c6 f4 9f 31 53 10 5d a1 68 96 96 a3 f7 53 a9 89 81 1b e3
+RIM-COD-SHA1-64: 5c bb f0 8a 80 ca e5 69 96 62 b8 77 bd 98 c3 4d 94 0d 2f 59
+RIM-COD-SHA1-63: 50 5e 61 3b d2 47 1c 61 28 d2 4d ac 07 7d 1a 12 2f c0 60 e4
+RIM-COD-SHA1-62: 93 fe 11 c7 61 97 6d d1 a0 89 8d 9a 87 e6 a6 a1 4c 4d 3a c2
+RIM-COD-SHA1-61: e6 45 f3 89 51 49 b2 ff 2e 44 09 35 88 2b b6 c7 56 de d7 66
+RIM-COD-SHA1-60: 06 9e 54 29 1e e2 0d 14 b8 2b 28 28 7e 6e fa 23 c9 ad 04 50
+RIM-COD-Size-19: 51216
+RIM-COD-Size-18: 58688
+RIM-COD-Size-17: 51172
+RIM-COD-Size-16: 51172
+RIM-COD-Size-15: 48628
+RIM-COD-Size-14: 51168
+RIM-COD-Size-13: 51168
+RIM-COD-Size-12: 58696
+RIM-COD-Size-11: 51192
+RIM-COD-Size-10: 51192
+RIM-COD-SHA1-59: 4f 7c 37 ca 20 1b 70 b1 d6 9c c4 ee f3 19 04 52 6d 55 5c 70
+RIM-COD-SHA1-58: 1c 48 2d 54 e1 b5 4d 25 0f fe 2e 0a 0c e4 e6 37 9c 79 f7 77
+RIM-COD-SHA1-57: bc 48 b3 cb 6a eb 37 90 5e fd 31 e0 77 87 ca 43 6a a8 b6 15
+RIM-COD-SHA1-56: 83 d4 5b 28 93 56 fc fe 89 11 57 07 96 6c 7b 4a 17 97 ca 17
+RIM-COD-SHA1-55: 02 23 fd fa b9 1f 1b 71 b3 e1 53 bf 25 54 bd c0 68 01 3b 17
+RIM-COD-SHA1-54: 62 95 ef 2c a6 0e 14 9c e0 c5 46 2e df a2 c5 55 81 73 e3 63
+RIM-COD-SHA1-53: 55 e1 f9 c6 73 9d 4b 40 3f 8a 66 46 ad 30 d7 3f ce b4 3d 4b
+MIDlet-1: mtwords/hand-held,resources/icon.png,rim:foreground;WIDGET;
+RIM-COD-SHA1-52: 34 dc 4d 90 fd 39 82 65 3e a2 42 61 70 6a af 77 b6 bc 76 ab
+RIM-COD-SHA1-51: 5f e9 08 f6 6a be 7a f1 c8 1e 84 f0 1a 21 7a e7 78 2c c1 5a
+RIM-COD-SHA1-50: 9a 79 7b b5 8b 00 b3 1e 71 62 7c 4b 50 a6 b5 cc ce 44 31 f7
+RIM-COD-SHA1: 81 e1 d0 bf c4 a5 55 5e bb fb 9d c0 9d d8 7d a9 b1 6d 0d 9d
+RIM-COD-SHA1-49: c8 42 bd f5 4a 91 a5 d2 b2 f3 7f 53 b4 a7 c1 d0 37 bf 9b 6f
+RIM-COD-SHA1-48: 14 0f 9b 42 3b 6c a7 28 9b bc 2d d2 1e 69 98 98 57 7a d8 10
+RIM-COD-SHA1-47: 99 41 2e da 6c ef ce da c6 67 01 df 91 ac 6e bd 1c b8 f0 95
+RIM-COD-SHA1-46: 5f 00 e0 83 37 fd 27 1a 16 6a 28 62 e1 43 50 40 b4 2c 80 f1
+RIM-COD-SHA1-45: 28 20 ab d6 23 4e e6 b5 6b ca 0c 16 cc b6 0b d7 74 41 82 bb
+RIM-COD-SHA1-44: 3d 0b fc 36 21 b4 d8 d7 3f 1e f1 5a 37 4a 50 96 b3 8a 5b a4
+RIM-COD-SHA1-43: 94 36 e4 c7 ae 7a e1 a7 a4 dd b5 fb 54 a8 4c be c2 a3 ea 56
+RIM-COD-SHA1-42: 54 be 7e bd 5a 07 54 8f e0 b1 41 52 2f da 95 a4 05 b8 26 44
+RIM-COD-SHA1-41: d9 f6 95 39 84 70 82 ae f8 bd 23 c2 fd 3b 00 64 a6 67 0c 7f
+RIM-COD-SHA1-40: 17 d5 27 e5 b1 99 41 17 79 7d ac 85 25 3d 58 25 61 29 15 3a
+RIM-COD-SHA1-39: e9 46 f3 19 be d7 48 8b c7 65 eb 0d 5c bb 07 12 e9 19 72 86
+RIM-COD-SHA1-38: cb 09 41 42 07 73 25 da 67 81 65 60 57 ef 76 e5 e8 4a ad 04
+RIM-COD-SHA1-37: 07 8c 4d ab 76 79 8d bd 4d e1 09 61 68 cc 70 14 a5 d5 2f 24
+RIM-COD-SHA1-36: 2d c4 d5 2c fa 8b bb ad ec 78 ae cb b0 37 f6 6c f8 5d 7a 65
+MIDlet-Jar-URL: mtwordshandheld.jar
+RIM-COD-SHA1-35: ab 05 32 14 35 5b 87 3c 0a e7 3c f0 7c 94 34 cf 08 84 6b 27
+RIM-COD-SHA1-34: b0 ab a0 e5 3e 0e 06 87 62 fe 26 32 69 b5 77 bd 9a 89 0b a9
+RIM-COD-SHA1-33: 0e 22 02 51 2b dd e1 62 bf e9 ec 4b 5d af 38 81 57 e9 c5 63
+RIM-COD-SHA1-32: bc 63 60 24 ec f6 8a 16 cb dc 68 96 f4 72 d4 bd ba 5d b2 ab
+RIM-COD-SHA1-31: 0b db 06 8b ef 7c 33 cf d1 90 90 da c7 3c 5e 7a d0 c4 f8 bc
+RIM-COD-SHA1-30: 85 66 ef be 33 8a 5a 44 d3 66 98 db 77 c4 f5 d3 36 22 f6 1d
+RIM-COD-SHA1-9: e6 92 41 24 f8 03 28 a6 e5 73 df 76 45 c1 ec 42 b9 11 78 dc
+RIM-COD-SHA1-8: b4 30 c6 7f 78 d2 b3 90 98 dc 9b ba 5a 2d c8 66 45 cf 88 2c
+RIM-COD-SHA1-7: f5 26 0c d5 ca 46 a5 0b 7e 2f 7a b5 8a f3 2d 6b 1c 91 be b8
+RIM-COD-SHA1-6: b0 e1 e9 8d 0a 14 b5 d2 16 aa ae bd ea 51 89 a3 c1 8d f1 73
+RIM-COD-SHA1-5: bd 76 f3 ad 20 ef 0f c4 20 fb 20 66 20 3d d4 e3 2b 0d cf e8
+RIM-COD-SHA1-4: f7 6c 21 72 3d 37 dd 97 de 06 d4 41 f6 75 af e4 bb ba 26 e1
+RIM-COD-SHA1-3: 78 78 52 d3 09 38 07 92 ec 3c 05 d9 f0 e0 84 90 c6 8b fb f1
+RIM-COD-SHA1-2: 2e aa bc 9c d5 37 e7 17 b6 b6 9f 9d ac 61 b3 5a 79 13 2e 7e
+RIM-COD-SHA1-1: 15 70 a2 50 ef af b1 b3 c8 f3 f6 11 6b 3d ba 8b 6b 54 7c 77
+RIM-COD-SHA1-29: db e9 a1 b4 39 5e 1a ef 22 33 b5 37 04 e4 8b a5 1c 6f db 9a
+RIM-COD-SHA1-28: cb 6c b0 fe e3 60 1f 82 1c a2 06 f5 fb a6 14 5d 5c a5 28 92
+RIM-COD-SHA1-27: 74 72 13 d6 1f 0b 01 02 29 b9 d1 06 32 f2 fa ee b6 81 a6 34
+RIM-COD-SHA1-26: 82 2d e5 1b 7b e6 e9 ac 84 5e e4 47 ae e0 46 be d4 24 27 d3
+RIM-COD-SHA1-25: 97 de 79 14 f3 67 fe ef ef a0 50 cd 38 86 cc 15 7f 5b 57 ef
+RIM-COD-SHA1-24: b7 0b 51 e0 a1 5c 43 6e e0 61 fa ab ea 67 59 ba fe 6b a8 8a
+RIM-COD-SHA1-23: 9c 7f 52 94 85 71 37 f9 7b 19 81 77 e7 81 7b 3c d8 c8 8c 35
+RIM-COD-SHA1-22: ce 55 70 ff 93 14 62 58 a5 b4 23 be 86 0a e4 00 20 59 d3 90
+RIM-COD-SHA1-21: db 29 73 ce 71 23 eb ac 6d 46 4a 04 47 55 3c 76 e2 1b 60 02
+RIM-COD-SHA1-20: 23 6b 9d 72 80 3e 1f fb 0c 51 24 93 d0 eb b1 6a 9b ae 16 9b
+RIM-COD-Creation-Time: 1357685964
+RIM-COD-SHA1-19: c7 dd 33 79 53 06 c2 f8 d1 8b e4 a6 4e b6 67 c3 be 29 3e 62
+RIM-COD-SHA1-18: c6 02 eb 35 4e 37 89 91 20 75 0a 69 7f 83 ca 53 07 de d3 5a
+RIM-COD-SHA1-17: f0 fd 97 be cb 7b d3 91 46 5b 26 6b f0 f3 b7 17 86 67 bc fe
+RIM-COD-SHA1-16: ea 25 6c a0 1b 8b 7e f1 d6 c8 94 d2 e6 2b 66 5b 9f 4d 05 a9
+RIM-COD-SHA1-15: c4 32 8d bd 68 11 30 8e 67 16 6a 12 f0 66 26 24 70 0d ca 95
+RIM-COD-SHA1-14: 9f ee ec 2b f7 13 d0 94 9f 52 64 ea fe fa 70 bd 7c cf 4d 4f
+RIM-COD-SHA1-13: 87 28 80 72 e1 55 5a d6 50 f3 55 ca 41 82 25 cb ff 48 23 44
+RIM-COD-SHA1-12: 56 65 1d 5d d1 1c 69 b6 07 a3 96 b2 58 1b a5 f1 ac 25 68 fd
+RIM-COD-SHA1-11: bc 91 6d 32 5e 9a 90 e1 aa d8 25 47 8d 03 a6 9a 02 95 73 7a
+RIM-COD-SHA1-10: ba 6a c5 db 8e 09 bb 27 5a c4 94 42 4b 62 bb 10 da ee 28 6f
